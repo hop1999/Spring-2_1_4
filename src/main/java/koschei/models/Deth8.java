@@ -1,9 +1,10 @@
 package koschei.models;
 
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
-@Service("De(a)thBean")
+@Component
 public class Deth8 {
+
     @Override
     public String toString() {return "Gangsta paradise bratishka...";}
 }
